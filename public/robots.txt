@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.apexia.club/
+
+# Sitemaps
+Sitemap: https://www.apexia.club/sitemap.xml
